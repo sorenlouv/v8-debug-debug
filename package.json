@@ -1,0 +1,8 @@
+{
+  "name": "v8-debug-debug",
+  "version": "1.0.0",
+  "description": "Reproduce issues with v8-debug under Node 6.x.x",
+  "devDependencies": {
+    "v8-debug": "0.7.7"
+  }
+}
